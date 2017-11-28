@@ -12,7 +12,7 @@
 
 ##### Ajouter un membre
 
- -Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`
+ - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`
 
  ```
   <div class="col-xs-6 col-sm-6 col-md-3">
