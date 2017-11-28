@@ -16,7 +16,7 @@
 
  - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`.
  
- ...**_il faut un maximum de 4 memebre entre le tag**`<div class="row"> `
+    _il faut un maximum de 4 memebre entre le tag`<div class="row"> `
     
  ```
   <div class="col-xs-6 col-sm-6 col-md-3">
