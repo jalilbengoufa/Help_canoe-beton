@@ -14,7 +14,8 @@
 
 ### Ajouter un membre
 
- - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`
+ - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`.
+ 
  ...**_il faut un maximum de 4 memebre entre le tag**`<div class="row"> `
     
  ```
