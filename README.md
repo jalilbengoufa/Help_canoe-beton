@@ -10,7 +10,7 @@
 
 
 
-##### Ajouter un membre
+### Ajouter un membre
 
  - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`
 
