@@ -1,7 +1,9 @@
 ## Help To Update canoe-beton
 (without Git commands)
 
-- Pour s'assurer que votre repository est a jour, supprimez la et appuyez sur fork dans la repository source 
+### Mettre à jour votre Fork
+
+- Pour s'assurer que votre repository est à jour, supprimez la et appuyez sur `Fork` dans la repository source 
  
     1. Cliquer sur `Settings`  [Image en aide](https://github.com/jalilbengoufa/Help_canoe-beton/blob/master/1.png)
 
