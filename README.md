@@ -5,4 +5,5 @@
     Inline-style: 
     ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-    1. Cliquer sur `Settings` [Settings]:https://github.com/jalilbengoufa/Help_canoe-beton/blob/master/1.png
+    1. Cliquer sur `Settings`  Inline-style: 
+                                ![alt text](https://github.com/jalilbengoufa/Help_canoe-beton/blob/master/1.png "Settings")
