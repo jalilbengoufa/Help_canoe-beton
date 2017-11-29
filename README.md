@@ -73,7 +73,7 @@
 ### Modification gallery 
 
  - Ajouter ce code HTML dans la `Section : gallery ` du fichier `index.html`pour inserer une photo 
-   - *Juste apres la ligne `<div class="carousel-inner" role="listbox">`*
+   - *Juste après la ligne  `<div class="carousel-inner" role="listbox">`*
  
  ``` 
  <div class="item active">
