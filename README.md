@@ -56,7 +56,7 @@
   
 ### Ajouter un sponsor
  - Ajouter ce code HTML dans la `Section : sponsors ` du fichier `index.html`
-  - *Il faut que les sponsors soient entre le tag `<div class="row">` pour être sur la même ligne*
+   - *Il faut que les sponsors soient entre le tag `<div class="row">` pour être sur la même ligne*
    ``` 
    <div class="col-xs-6 col-sm-3 col-md-3">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
