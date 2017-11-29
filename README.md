@@ -79,8 +79,5 @@
  <div class="item active">
         <img data-src="images/PathImage.jpg" alt="img1" class="img-responsive">
  </div>
-   
-
-
  
-   
+ ``` 
