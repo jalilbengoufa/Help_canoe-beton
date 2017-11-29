@@ -16,7 +16,7 @@
 
  - Il suffit d'ajouter ce code HTML dans la `Section : Team ` du fichier `index.html`
  
-    *Il faut un maximum de 4 memebre entre le tag `<div class="row">`*
+    *Il faut un maximum de 4 memebre entre le tag `<div class="row">`*.
     *Ne pas oublier de changer le path pour la photo*
     
  ```
