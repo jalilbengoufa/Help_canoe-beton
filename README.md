@@ -11,10 +11,10 @@
     3. Dans `ClubCedille/canoe-beton`  appuyer sur  `Fork` [Image en aide](https://github.com/jalilbengoufa/Help_canoe-beton/blob/master/3.png)
 
 
-### Modifier image du background
+### Modifier l'image du background
 
 - Changer le path de l'image dans la section intro du fichier `style.scss` qui se trouve dans `app/styles/style.scss`
-  - *le path a modifier est dans la ligne `background: url(../images/nouvelleImage.jpg) no-repeat center;`*
+  - *le path à modifier est dans la ligne `background: url(../images/nouvelleImage.jpg) no-repeat center;`*
 
 
 ### Ajouter un membre
@@ -75,7 +75,7 @@
   </div>
   ``` 
   
-### Modification gallery 
+### Modification de la gallery 
 
  - Ajouter ce code HTML dans la `Section : gallery ` du fichier `index.html`pour inserer une photo 
    - *Juste après la ligne  `<div class="carousel-inner" role="listbox">`*
