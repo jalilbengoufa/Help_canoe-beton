@@ -42,9 +42,9 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-lg-4">
-        <p><b>Type de compétition:</b> Type</p>
-        <p><b>Lieu de compétition:</b> Lieux</p>
-        <p><b>Placement:</b> 2e place</p>
+        <p><b>Type de compétition:</b> à modifier</p>
+        <p><b>Lieu de compétition:</b> à modifier</p>
+        <p><b>Placement:</b> à modifier</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-lg-8">
       <img data-src="images/pathImageCompetition.png" alt=""
