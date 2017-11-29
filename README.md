@@ -33,4 +33,28 @@
       </div>
   </div>
  ```
+ 
+ ### Ajouter une compétition
+ 
+ - Ajouter ce code HTML dans la `Section : Competition ` du fichier `index.html`
+  `
+  <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-lg-4">
+        <p><b>Type de compétition:</b> Canadienne</p>
+        <p><b>Lieu de compétition:</b> University of Toronto</p>
+        <p><b>Placement:</b> 2e place</p>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-lg-8">
+      <img data-src="images/2015_samba/competition/Toronto-en-vélo.png" alt=""
+           class="img-responsive "/>
+      </div>
+    </div>
+</div>``
+ ```
+  
+  
+ 
+ 
    
