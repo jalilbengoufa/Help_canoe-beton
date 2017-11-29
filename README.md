@@ -37,7 +37,7 @@
  ### Ajouter une compétition
  
  - Ajouter ce code HTML dans la `Section : Competition ` du fichier `index.html`
-  `
+  ```
   <br>
   <div class="container">
     <div class="row">
@@ -51,9 +51,8 @@
            class="img-responsive "/>
       </div>
     </div>
-</div>``
- ```
-  
+</div>
+  ``` 
   
  
  
