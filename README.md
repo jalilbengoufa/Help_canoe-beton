@@ -42,12 +42,12 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-lg-4">
-        <p><b>Type de compétition:</b> Canadienne</p>
-        <p><b>Lieu de compétition:</b> University of Toronto</p>
+        <p><b>Type de compétition:</b> Type</p>
+        <p><b>Lieu de compétition:</b> Lieux</p>
         <p><b>Placement:</b> 2e place</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-lg-8">
-      <img data-src="images/2015_samba/competition/Toronto-en-vélo.png" alt=""
+      <img data-src="images/pathImageCompetition.png" alt=""
            class="img-responsive "/>
       </div>
     </div>
